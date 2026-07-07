@@ -22,3 +22,32 @@ The Improved TF-IDF + LinearSVC model achieved the highest validation accuracy a
 ## Project Structure
 - `task1/notebooks/` – Jupyter notebook
 - `task1/data/` – Dataset and predictions
+
+# Customer Churn Prediction (CodSoft Task 2)
+
+## Objective
+Develop a Machine Learning model to predict whether a customer is likely to churn based on customer demographics, account information, and banking behavior.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Logistic Regression
+- Random Forest
+- Gradient Boosting
+
+## Experiments
+- Logistic Regression: TBD
+- Random Forest: TBD
+- Gradient Boosting: TBD
+
+## Best Model
+To be updated after model evaluation.
+
+## Project Structure
+- `task2/notebooks/` – Jupyter Notebook
+- `task2/data/` – Dataset
+- `task2/models/` – Saved trained model
