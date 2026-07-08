@@ -40,12 +40,14 @@ Develop a Machine Learning model to predict whether a customer is likely to chur
 - Gradient Boosting
 
 ## Experiments
-- Logistic Regression: TBD
-- Random Forest: TBD
-- Gradient Boosting: TBD
+|        Model        |  Accuracy  |
+|---------------------|------------|
+| Logistic Regression | **81.10%** |
+| Random Forest       | **86.65%** |
+| Gradient Boosting   | **86.75%** |
 
 ## Best Model
-To be updated after model evaluation.
+The **Gradient Boosting Classifier** achieved the highest accuracy (**86.75%**) and was selected as the final model.
 
 ## Project Structure
 - `task2/notebooks/` – Jupyter Notebook
